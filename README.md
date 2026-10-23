@@ -7,6 +7,6 @@ TypeScript, no framework. The page reads a live list from the shared Supabase te
 
 | App | Folder | Production | Preview gate |
 |---|---|---|---|
-| Plover | `apps/plover-rpq` | _not deployed_ | yes |
-| Yarrow | `apps/yarrow-h9z` | _not deployed_ | yes |
-| Kestrel | `apps/kestrel-ls4` | _not deployed_ | yes |
+| Plover | `apps/plover-rpq` | https://sedge-tarn-24tn-plover-rpq.pages.dev | yes |
+| Yarrow | `apps/yarrow-h9z` | https://sedge-tarn-24tn-yarrow-h9z.pages.dev | yes |
+| Kestrel | `apps/kestrel-ls4` | https://sedge-tarn-24tn-kestrel-ls4.pages.dev | yes |
